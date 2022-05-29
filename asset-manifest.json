@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Oryon-Website/static/css/main.073c9b0a.css",
+    "main.js": "/Oryon-Website/static/js/main.384c9e02.js",
+    "static/js/787.c1112931.chunk.js": "/Oryon-Website/static/js/787.c1112931.chunk.js",
+    "index.html": "/Oryon-Website/index.html",
+    "main.073c9b0a.css.map": "/Oryon-Website/static/css/main.073c9b0a.css.map",
+    "main.384c9e02.js.map": "/Oryon-Website/static/js/main.384c9e02.js.map",
+    "787.c1112931.chunk.js.map": "/Oryon-Website/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.384c9e02.js"
+  ]
+}
