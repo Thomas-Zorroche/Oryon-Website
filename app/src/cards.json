@@ -1,0 +1,78 @@
+{
+    "cards": 
+    [
+        {
+            "id": 0,
+            "title": "Oryon",
+            "image": "01.jpg",
+            "desc": "User Interface Software based on the GLRenderer library written in C++.",
+            "link": "https://github.com/Thomas-Zorroche/Oryon"
+        },
+
+        {
+            "id": 1,
+            "title": "GLRenderer",
+            "image": "06.jpg",
+            "desc": "OpenGL Based Forward and Deferred Renderer using Glad and GLFW.",
+            "link": "https://github.com/Thomas-Zorroche/GLRenderer"
+        },
+
+        {
+            "id": 2,
+            "title": "ImBridge",
+            "image": "imbridge.jpg",
+            "desc": "C++ library that allows to access and draw parameters inside ImGui applications.",
+            "link": "https://github.com/Thomas-Zorroche/ImBridge"
+        },
+
+        
+        {
+            "id": 3,
+            "title": "Edit your scene",
+            "image": "editScene.jpg",
+            "desc": "Move, rotate and scale objects as you like, change parameters of materials and renderer settings.",
+            "link" : ""
+        },
+
+        {
+            "id": 4,
+            "title": "Import GLTF files",
+            "image": "importGltf.jpg",
+            "desc": "Import GLTF files inside Oryon (File -> Import -> glTF)",
+            "link" : ""
+        },
+
+        {
+            "id": 5,
+            "title": "Deferred Rendering",
+            "image": "05.jpg",
+            "desc": "You can render up to 1000 lights in your scene thanks to Deferred Rendering",
+            "link" : ""
+        },
+
+        {
+            "id": 6,
+            "title": "Particle System",
+            "image": "04.jpg",
+            "desc": "Particle Systems help you populate your scene with various components like point lights",
+            "link" : ""
+        },
+
+        {
+            "id": 7,
+            "title": "Soft Shadows",
+            "image": "softShadows.JPG",
+            "desc": "(WIP) With the help of Percentage-Closer Soft Shadows algorithm, render soft shadows from a directional light",
+            "link" : ""
+        },
+
+        {
+            "id": 8,
+            "title": "Controls",
+            "image": "03.jpg",
+            "desc": "Navigate with Alt (Pan: MiddleMouseButton, Rotate: LeftClick, Zoom: RightClick)",
+            "link" : ""
+        }
+
+    ]
+  }
