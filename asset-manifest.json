@@ -1,15 +1,30 @@
 {
   "files": {
-    "main.css": "/Oryon-Website/static/css/main.073c9b0a.css",
-    "main.js": "/Oryon-Website/static/js/main.384c9e02.js",
+    "main.css": "/Oryon-Website/static/css/main.3197afca.css",
+    "main.js": "/Oryon-Website/static/js/main.9f08f929.js",
     "static/js/787.c1112931.chunk.js": "/Oryon-Website/static/js/787.c1112931.chunk.js",
+    "static/media/01.jpg": "/Oryon-Website/static/media/01.a3e9dfa15d416d783bbd.jpg",
+    "static/media/05.jpg": "/Oryon-Website/static/media/05.0a3e34e7da3fd0accae1.jpg",
+    "static/media/04.jpg": "/Oryon-Website/static/media/04.ef216f537f9148fe1091.jpg",
+    "static/media/06.jpg": "/Oryon-Website/static/media/06.a5d83cff1c91aed4489a.jpg",
+    "static/media/background.jpg": "/Oryon-Website/static/media/background.9a4c67b9c6f29556ede7.jpg",
+    "static/media/Montserrat-Bold.ttf": "/Oryon-Website/static/media/Montserrat-Bold.63fae500fdcf19ce83d4.ttf",
+    "static/media/Montserrat-Regular.ttf": "/Oryon-Website/static/media/Montserrat-Regular.ac98a5f5ca71180fe293.ttf",
+    "static/media/importGltf.jpg": "/Oryon-Website/static/media/importGltf.6270f625c5db4f4ec038.jpg",
+    "static/media/editScene.jpg": "/Oryon-Website/static/media/editScene.fa4f28429b849400c152.jpg",
+    "static/media/imbridge.jpg": "/Oryon-Website/static/media/imbridge.32aab60130688d5ba09a.jpg",
+    "static/media/02.jpg": "/Oryon-Website/static/media/02.b86536a367e01a531ee7.jpg",
+    "static/media/03.jpg": "/Oryon-Website/static/media/03.a87b8d04f61aec50a563.jpg",
+    "static/media/graph.jpg": "/Oryon-Website/static/media/graph.f61fdf6b99d682d7c118.jpg",
+    "static/media/softShadows.JPG": "/Oryon-Website/static/media/softShadows.8baf256b6e6b63d74c17.JPG",
+    "static/media/github.png": "/Oryon-Website/static/media/github.6d61d7a2a15eb7475199.png",
     "index.html": "/Oryon-Website/index.html",
-    "main.073c9b0a.css.map": "/Oryon-Website/static/css/main.073c9b0a.css.map",
-    "main.384c9e02.js.map": "/Oryon-Website/static/js/main.384c9e02.js.map",
+    "main.3197afca.css.map": "/Oryon-Website/static/css/main.3197afca.css.map",
+    "main.9f08f929.js.map": "/Oryon-Website/static/js/main.9f08f929.js.map",
     "787.c1112931.chunk.js.map": "/Oryon-Website/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.384c9e02.js"
+    "static/css/main.3197afca.css",
+    "static/js/main.9f08f929.js"
   ]
 }
